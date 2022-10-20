@@ -1,0 +1,10 @@
+Todo:
+- Add hard and easy mode
+-- Hard mode has no save points
+-- Easy mode allows for save points
+
+- Finish intro
+-- Crash ship on mars
+
+- Figure out shelter
+-- if wrong option is chosen character dies and restarts at last major point if allowed
